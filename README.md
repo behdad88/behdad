@@ -6,9 +6,9 @@ I am currently available and looking for a new position in my field. I am lookin
 
 ### Elsewhere on the internet
 
-[Twitter](https://twitter.com/behdad_ka) 
-[LinkedIn](https://linkedin.com/in/behdad-karimi)
-[Tableau](https://public.tableau.com/profile/behdadkarimi#!/)
+- [Twitter](https://twitter.com/behdad_ka) 
+- [LinkedIn](https://linkedin.com/in/behdad-karimi)
+- [Tableau](https://public.tableau.com/profile/behdadkarimi#!/)
 
 You can follow me on my Twitter and LinkedIn, and message me if want to talk 😊
 
