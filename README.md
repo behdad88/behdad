@@ -6,9 +6,9 @@ I am currently available and looking for a new position in my field. I am lookin
 
 ### Elsewhere on the internet
 
-[![Twitter](https://github.com/behdad88/behdad88/blob/658805106bea04bcda40bc4d40b68f90d66eb17a/twitter.png)](https://twitter.com/behdad_ka) 
-[![LinkedIn](https://github.com/behdad88/behdad88/blob/658805106bea04bcda40bc4d40b68f90d66eb17a/linkedin.png)](https://linkedin.com/in/behdad-karimi)
-[![LinkedIn](https://github.com/behdad88/behdad88/blob/658805106bea04bcda40bc4d40b68f90d66eb17a/icon-tableau-1.png)](https://public.tableau.com/profile/behdadkarimi#!/)
+[Twitter](https://twitter.com/behdad_ka) 
+[LinkedIn](https://linkedin.com/in/behdad-karimi)
+[Tableau](https://public.tableau.com/profile/behdadkarimi#!/)
 
 You can follow me on my Twitter and LinkedIn, and message me if want to talk 😊
 
