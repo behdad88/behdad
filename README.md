@@ -1,5 +1,5 @@
 # Greetings!
-I am Behdad Karimi, a Data and Business Analyst based in Shiraz, Iran. 
+I am Behdad, a Data and Business Analyst based in Shiraz, Iran. 
 
 I am currently available and looking for a new position in my field. I am looking forward for new challenges and a place where I can hone my skills and challenge myself.
 
