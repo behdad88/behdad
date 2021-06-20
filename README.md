@@ -11,7 +11,8 @@ I am currently available and looking for a new position in my field. I am lookin
 - [Twitter](https://twitter.com/behdad_ka) 
 - [LinkedIn](https://linkedin.com/in/behdad-karimi)
 - [Tableau](https://public.tableau.com/profile/behdadkarimi#!/)
+- [Kaggle](https://www.kaggle.com/behdadkarimi)
 
-You can follow me on my Twitter and LinkedIn, and message me if want to talk 😊
+You can follow me on my Twitter and LinkedIn, and message me if want you to talk 😊
 
 
