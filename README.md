@@ -1,9 +1,9 @@
 # Greetings!
-I am Behdad, a Data and Business Analyst based in Shiraz, Iran. 
+I am Behdad, a Data and Business Analyst based in Hamburg, Germany. 
 
 Thorough and meticulous Data Analyst passionate about helping businesses succeed. Possessing strong technical skills rooted in substantial training as an engineer.
 
-I am currently available and looking for a new position in my field. I am looking forward for new challenges and a place where I can hone my skills and challenge myself.
+I am currently working at FREENOW HQ as a data analyst.
 
 
 ### Elsewhere on the internet
